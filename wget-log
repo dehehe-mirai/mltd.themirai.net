@@ -1,0 +1,11 @@
+--2020-07-24 11:40:34--  https://sir.kr/bbs/download2.php?bo_table=g5_theme
+Resolving sir.kr (sir.kr)... 125.141.133.27
+Connecting to sir.kr (sir.kr)|125.141.133.27|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘download2.php?bo_table=g5_theme’
+
+            download2.p     [<=>                            ]       0  --.-KB/s               download2.php?bo_table=     [ <=>                           ]   7.80K  --.-KB/s    in 0s      
+
+2020-07-24 11:40:35 (254 MB/s) - ‘download2.php?bo_table=g5_theme’ saved [7992]
+
